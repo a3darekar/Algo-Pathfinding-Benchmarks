@@ -5,7 +5,7 @@ Amey Darekar, Konstantin Tenman
 
 ## Poster
 
-[Link to the poster](../Benchmarking_Path_Search_Algorithms_poster.pdf)
+[Link to the poster](https://github.com/a3darekar/UT-Algo-Pathfinding-Benchmarks/blob/main/Benchmarking_Path_Search_Algorithms_poster.pdf)
 
 ## Introduction
 
